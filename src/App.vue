@@ -12,6 +12,7 @@ import HelloWorld from './components/HelloWorld.vue'
     </a>
   </div>
   <HelloWorld msg="Vite + Vue" />
+  <font-awesome-icon :icon="['fas', 'dice-two']" />
 </template>
 
 <style scoped>
